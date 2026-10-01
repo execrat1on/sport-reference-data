@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "Если вы используете эти данные, ссылайтесь на них так:"
+title: "Sport Reference — доказательный справочник о добавках и тренировках"
+abstract: >-
+  Публикации PubMed с уровнями доказательности, разборы 103 добавок
+  с дозировками под цели, недельные тренировочные объёмы по группам мышц,
+  упражнения и продукты, разобранные по макронутриентам.
+type: dataset
+authors:
+  - family-names: "Белоедов"
+    given-names: "Михаил"
+    alias: "execrat1on"
+    website: "https://sportreference.online/"
+repository-code: "https://github.com/execrat1on/sport-reference-data"
+url: "https://sportreference.online/data/"
+license: CC-BY-4.0
+keywords:
+  - спортивное питание
+  - спортивные добавки
+  - доказательная медицина
+  - PubMed
+  - тренировочный объём
+version: "1.0.0"
+date-released: "2026-10-01"

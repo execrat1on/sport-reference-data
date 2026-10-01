@@ -1,2 +1,4 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+# JSON — данные проекта: переводы строк внутри них не трогаем.
+*.json -text
+*.cff text eol=lf
+*.md text eol=lf
