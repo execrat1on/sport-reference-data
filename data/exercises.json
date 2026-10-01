@@ -1,0 +1,284 @@
+{
+  "note": "Подсказка по технике — не замена тренеру. Видео открываются на YouTube в новой вкладке.",
+  "groups": [
+    {
+      "id": "legs",
+      "label": "Ноги",
+      "items": [
+        {
+          "name": "Приседания со штангой",
+          "cue": "Стопы на ширине плеч, колени идут по направлению носков, спина нейтральная, глубина до параллели и ниже.",
+          "video": {
+            "title": "How To Squat - Any Style",
+            "channel": "Alan Thrall (Untamed Strength)",
+            "url": "https://www.youtube.com/watch?v=UFs6E3Ti1jg"
+          }
+        },
+        {
+          "name": "Жим ногами",
+          "cue": "Спина и таз прижаты к спинке, колени сгибаются по направлению стоп, не выпрямляй ноги до жёсткого замка и не отрывай поясницу.",
+          "video": {
+            "title": "How to do a Leg Press | Proper Form & Technique",
+            "channel": "National Academy of Sports Medicine (NASM)",
+            "url": "https://www.youtube.com/watch?v=cDGOn-yfKJA"
+          }
+        },
+        {
+          "name": "Румынская тяга",
+          "cue": "Колени слегка согнуты, таз уходит назад, штанга скользит вдоль ног, спина нейтральная, растяжение в задней поверхности бедра без округления поясницы.",
+          "video": {
+            "title": "Romanian Deadlift - Proper Form & Technique",
+            "channel": "Steev",
+            "url": "https://www.youtube.com/watch?v=KN5vN3JskqI"
+          }
+        },
+        {
+          "name": "Выпады с гантелями",
+          "cue": "Шаг вперёд или назад, корпус вертикально, колено передней ноги над стопой, заднее колено опускается к полу, отталкивайся всей стопой.",
+          "video": {
+            "title": "Dumbbell Lunges (Proper Form)",
+            "channel": "No Cheat Gains",
+            "url": "https://www.youtube.com/watch?v=TwEH620Pn6A"
+          }
+        }
+      ]
+    },
+    {
+      "id": "chest",
+      "label": "Грудь",
+      "items": [
+        {
+          "name": "Жим штанги лёжа",
+          "cue": "Лопатки сведены и прижаты к скамье, стопы упираются в пол, гриф опускается к нижней части груди, локти идут под умеренным углом к корпусу.",
+          "video": {
+            "title": "How To Bench Press With Perfect Technique",
+            "channel": "Jeff Nippard",
+            "url": "https://www.youtube.com/watch?v=hWbUlkb5Ms4"
+          }
+        },
+        {
+          "name": "Жим гантелей на наклонной",
+          "cue": "Скамья под умеренным наклоном, лопатки сведены, гантели движутся по дуге над верхней частью груди, без разведения локтей строго в стороны.",
+          "video": {
+            "title": "How to Perform Incline Dumbbell Press",
+            "channel": "Buff Dudes Workouts",
+            "url": "https://www.youtube.com/watch?v=gl8H4QLXKTo"
+          }
+        },
+        {
+          "name": "Отжимания на брусьях",
+          "cue": "Корпус слегка наклонён вперёд, локти идут назад, опускайся до комфортной глубины без провала в плечах, плечи не поднимаются к ушам.",
+          "video": {
+            "title": "Chest Dip - Proper Form & Technique",
+            "channel": "Steev",
+            "url": "https://www.youtube.com/watch?v=JGE9AVVGAH0"
+          }
+        },
+        {
+          "name": "Разводка гантелей лёжа",
+          "cue": "Локти чуть согнуты и зафиксированы, руки движутся по широкой дуге, растяжение в груди без опускания ниже уровня плеч.",
+          "video": {
+            "title": "The Better Chest Fly (More Gains!)",
+            "channel": "ATHLEAN-X",
+            "url": "https://www.youtube.com/watch?v=S298ziysRdI"
+          }
+        }
+      ]
+    },
+    {
+      "id": "back",
+      "label": "Спина",
+      "items": [
+        {
+          "name": "Подтягивания",
+          "cue": "Хват чуть шире плеч, лопатки сводятся вниз и к позвоночнику, тянись грудью к перекладине, без раскачивания и рывков.",
+          "video": {
+            "title": "How To: Pull Up",
+            "channel": "ScottHermanFitness",
+            "url": "https://www.youtube.com/watch?v=8XrB3eV3_ZE"
+          }
+        },
+        {
+          "name": "Тяга штанги в наклоне",
+          "cue": "Корпус наклонён, спина нейтральная, штанга тянется к нижней части живота, локти идут вдоль корпуса без рывков.",
+          "video": {
+            "title": "How To Barbell Row: Programming & Proper Form",
+            "channel": "Barbell Logic",
+            "url": "https://www.youtube.com/watch?v=A1tmBJKKfVs"
+          }
+        },
+        {
+          "name": "Тяга верхнего блока",
+          "cue": "Корпус с лёгким наклоном назад, тяни рукоять к верхней части груди, лопатки сводятся, без раскачивания корпуса.",
+          "video": {
+            "title": "How to do Lat Pulldowns (Avoid Mistakes!)",
+            "channel": "ATHLEAN-X",
+            "url": "https://www.youtube.com/watch?v=SALxEARiMkw"
+          }
+        },
+        {
+          "name": "Тяга гантели одной рукой",
+          "cue": "Колено и ладонь на скамье, спина нейтральная, гантель тянется к бедру, локоть идёт вдоль корпуса, без вращения таза.",
+          "video": {
+            "title": "One-Arm Dumbbell Row: Proper Form",
+            "channel": "Testosterone Nation",
+            "url": "https://www.youtube.com/watch?v=EqEOuGFyOgc"
+          }
+        },
+        {
+          "name": "Становая тяга",
+          "cue": "Гриф над серединой стопы, спина нейтральная, живот напряжён, отталкивайся ногами и веди гриф близко к телу, вверху не переразгибай поясницу.",
+          "video": {
+            "title": "How To Deadlift With Perfect Technique (Step By Step)",
+            "channel": "Jeff Nippard",
+            "url": "https://www.youtube.com/watch?v=ZaTM37cfiDs"
+          }
+        }
+      ]
+    },
+    {
+      "id": "shoulders",
+      "label": "Плечи",
+      "items": [
+        {
+          "name": "Жим штанги стоя",
+          "cue": "Стопы на ширине плеч, живот напряжён, гриф идёт по прямой над головой, локти под грифом, без прогиба в пояснице.",
+          "video": {
+            "title": "How to Perform Overhead Press - Proper Technique & Form",
+            "channel": "Buff Dudes",
+            "url": "https://www.youtube.com/watch?v=F3QY5vMz_6I"
+          }
+        },
+        {
+          "name": "Махи гантелями в стороны",
+          "cue": "Локти чуть согнуты, движение идёт локтями, гантели поднимаются до уровня плеч, без раскачивания корпуса и поднимания плеч к ушам.",
+          "video": {
+            "title": "How To: Dumbbell Side Lateral Raise",
+            "channel": "ScottHermanFitness",
+            "url": "https://www.youtube.com/watch?v=3VcKaXpzqRo"
+          }
+        },
+        {
+          "name": "Махи в наклоне на заднюю дельту",
+          "cue": "Корпус наклонён, спина нейтральная, руки разводятся в стороны, лопатки сводятся, движение без рывков и инерции.",
+          "video": {
+            "title": "Rear Delt Fly - Proper Form & Technique",
+            "channel": "Steev",
+            "url": "https://www.youtube.com/watch?v=p7YER_nABrI"
+          }
+        }
+      ]
+    },
+    {
+      "id": "arms",
+      "label": "Руки",
+      "items": [
+        {
+          "name": "Подъём штанги на бицепс",
+          "cue": "Локти прижаты к корпусу, подъём без раскачивания, вверху без движения плечами, опускание подконтрольное.",
+          "video": {
+            "title": "How To: Barbell Bicep Curl",
+            "channel": "ScottHermanFitness",
+            "url": "https://www.youtube.com/watch?v=QZEqB6wUPxQ"
+          }
+        },
+        {
+          "name": "Французский жим лёжа",
+          "cue": "Плечи и локти зафиксированы, сгибается только предплечье, гриф опускается ко лбу или за голову, без разведения локтей.",
+          "video": {
+            "title": "How to Do Lying Triceps Extension (Skull Crusher)",
+            "channel": "FIT.nl",
+            "url": "https://www.youtube.com/watch?v=tj81tVq3wLo"
+          }
+        },
+        {
+          "name": "Разгибания на блоке",
+          "cue": "Локти прижаты к корпусу, разгибание только в локте, внизу полное сокращение, без наклона корпуса вперёд.",
+          "video": {
+            "title": "Tricep Pushdown: Proper Form, Attachments, and the Biggest Mistake Killing Your Gains",
+            "channel": "MuscleWiki",
+            "url": "https://www.youtube.com/watch?v=w_viR9hVi4A"
+          }
+        }
+      ]
+    },
+    {
+      "id": "core",
+      "label": "Пресс",
+      "items": [
+        {
+          "name": "Планка",
+          "cue": "Тело — прямая линия от головы до пяток, живот и ягодицы напряжены, таз не провисает и не поднимается, шея нейтральная.",
+          "video": {
+            "title": "How to do a Plank | Proper Form & Technique",
+            "channel": "National Academy of Sports Medicine (NASM)",
+            "url": "https://www.youtube.com/watch?v=mwlp75MS6Rg"
+          }
+        },
+        {
+          "name": "Подъём ног в висе",
+          "cue": "Хват на перекладине, плечи опущены, подъём ног за счёт пресса с округлением таза, без раскачивания и инерции.",
+          "video": {
+            "title": "Hanging Leg Raise | HOW-TO",
+            "channel": "ATHLEAN-X",
+            "url": "https://www.youtube.com/watch?v=Pr1ieGZ5atk"
+          }
+        }
+      ]
+    },
+    {
+      "id": "calves",
+      "label": "Икры",
+      "items": [
+        {
+          "name": "Подъёмы на носки стоя",
+          "cue": "Стопы на ширине таза, подъём на носки до полного сокращения, опускание с растяжением в ахилле, без пружинящих рывков.",
+          "video": {
+            "title": "Standing calf raises",
+            "channel": "Balance In Motion",
+            "url": "https://www.youtube.com/watch?v=Km0QS46bTEA"
+          }
+        }
+      ]
+    },
+    {
+      "id": "cardio",
+      "label": "Кардио",
+      "items": [
+        {
+          "name": "Интервальная ходьба и бег",
+          "cue": "Чередуй отрезки высокой и низкой интенсивности, корпус вертикально, приземление на середину стопы, дыхание ровное, нагрузку повышай постепенно.",
+          "video": {
+            "title": "Treadmill Interval Workout with Coach Rachael",
+            "channel": "IBX Running",
+            "url": "https://www.youtube.com/watch?v=uNKbVlGstWY"
+          }
+        },
+        {
+          "name": "Гребной тренажёр",
+          "cue": "Движение начинается с ног, затем корпус, затем руки; возврат в обратном порядке, спина нейтральная, без рывков.",
+          "video": {
+            "title": "Perfect Rowing Technique",
+            "channel": "RowAlong",
+            "url": "https://www.youtube.com/watch?v=mhKhXjIPxr0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "warmup",
+      "label": "Разминка",
+      "items": [
+        {
+          "name": "Суставная разминка и динамическая растяжка",
+          "cue": "Пройди суставы маховыми и круговыми движениями, затем динамические движения с постепенным увеличением амплитуды, без резких растягиваний на холодные мышцы.",
+          "video": {
+            "title": "Dynamic Warm Up (Full Body Mobility)",
+            "channel": "nourishmovelove",
+            "url": "https://www.youtube.com/watch?v=oiBAbrqajBw"
+          }
+        }
+      ]
+    }
+  ]
+}
