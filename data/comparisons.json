@@ -1,0 +1,21 @@
+{
+  "_comment": "Пары для сравнения. Список составлен вручную: автоматика нарезала бы сотни бессмысленных пар вида «цинк против валерианы». Используется скриптами prerender.mjs и make-og-pages.mjs.",
+  "pairs": [
+    ["creatine-monohydrate", "creatine-hcl"],
+    ["creatine-monohydrate", "creatine-nitrate"],
+    ["whey-protein", "casein-protein"],
+    ["whey-protein", "pea-protein"],
+    ["pea-protein", "rice-protein"],
+    ["soy-protein", "whey-protein"],
+    ["bcaa", "eaa"],
+    ["citrulline-malate", "arginine"],
+    ["caffeine", "caffeine-gum"],
+    ["caffeine", "theacrine"],
+    ["ashwagandha", "rhodiola"],
+    ["omega-3", "curcumin"],
+    ["beta-alanine", "sodium-bicarbonate"],
+    ["maltodextrin", "cluster-dextrin"],
+    ["glutamine", "bcaa"],
+    ["tart-cherry", "sleep-supplements"]
+  ]
+}

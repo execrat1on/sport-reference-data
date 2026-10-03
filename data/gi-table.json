@@ -1,0 +1,445 @@
+{
+  "note": "Гликемический индекс продуктов из международных таблиц: среднее значение и стандартная ошибка. Индекс измеряется для порции, содержащей 50 г доступных углеводов. Названия переведены на русский, исходное английское название сохранено в поле nameEn — по нему значение сверяется с таблицей-источником.",
+  "source": {
+    "name": "Atkinson FS, Foster-Powell K, Brand-Miller JC. International Tables of Glycemic Index and Glycemic Load Values: 2008. Diabetes Care.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2584181/",
+    "license": "Открытый архив PubMed Central (статья в свободном доступе)",
+    "retrieved": "2026-10-02"
+  },
+  "items": [
+    {
+      "name": "Хлеб пшеничный белый",
+      "nameEn": "White wheat bread",
+      "category": "Хлеб и хлебобулочные изделия",
+      "gi": 75,
+      "giError": 2
+    },
+    {
+      "name": "Кукурузные хлопья",
+      "nameEn": "Cornflakes",
+      "category": "Зерновые завтраки",
+      "gi": 81,
+      "giError": 6
+    },
+    {
+      "name": "Яблоко свежее",
+      "nameEn": "Apple, raw",
+      "category": "Фрукты и ягоды",
+      "gi": 36,
+      "giError": 2
+    },
+    {
+      "name": "Картофель варёный",
+      "nameEn": "Potato, boiled",
+      "category": "Овощи и корнеплоды",
+      "gi": 78,
+      "giError": 4
+    },
+    {
+      "name": "Хлеб цельнозерновой",
+      "nameEn": "Whole wheat/whole meal bread",
+      "category": "Хлеб и хлебобулочные изделия",
+      "gi": 74,
+      "giError": 2
+    },
+    {
+      "name": "Пшеничные хлопья-печенье",
+      "nameEn": "Wheat flake biscuits",
+      "category": "Зерновые завтраки",
+      "gi": 69,
+      "giError": 2
+    },
+    {
+      "name": "Апельсин свежий",
+      "nameEn": "Orange, raw",
+      "category": "Фрукты и ягоды",
+      "gi": 43,
+      "giError": 3
+    },
+    {
+      "name": "Картофельное пюре из сухого пюре",
+      "nameEn": "Potato, instant mash",
+      "category": "Овощи и корнеплоды",
+      "gi": 87,
+      "giError": 3
+    },
+    {
+      "name": "Хлеб из специальных сортов зерна",
+      "nameEn": "Specialty grain bread",
+      "category": "Хлеб и хлебобулочные изделия",
+      "gi": 53,
+      "giError": 2
+    },
+    {
+      "name": "Овсяная каша из хлопьев",
+      "nameEn": "Porridge, rolled oats",
+      "category": "Зерновые завтраки",
+      "gi": 55,
+      "giError": 2
+    },
+    {
+      "name": "Банан свежий",
+      "nameEn": "Banana, raw",
+      "category": "Фрукты и ягоды",
+      "gi": 51,
+      "giError": 3
+    },
+    {
+      "name": "Картофель фри",
+      "nameEn": "Potato, french fries",
+      "category": "Овощи и корнеплоды",
+      "gi": 63,
+      "giError": 5
+    },
+    {
+      "name": "Хлеб пшеничный бездрожжевой",
+      "nameEn": "Unleavened wheat bread",
+      "category": "Хлеб и хлебобулочные изделия",
+      "gi": 70,
+      "giError": 5
+    },
+    {
+      "name": "Овсяная каша быстрого приготовления",
+      "nameEn": "Instant oat porridge",
+      "category": "Зерновые завтраки",
+      "gi": 79,
+      "giError": 3
+    },
+    {
+      "name": "Ананас свежий",
+      "nameEn": "Pineapple, raw",
+      "category": "Фрукты и ягоды",
+      "gi": 59,
+      "giError": 8
+    },
+    {
+      "name": "Морковь варёная",
+      "nameEn": "Carrots, boiled",
+      "category": "Овощи и корнеплоды",
+      "gi": 39,
+      "giError": 4
+    },
+    {
+      "name": "Роти, пшеничная лепёшка",
+      "nameEn": "Wheat roti",
+      "category": "Хлеб и хлебобулочные изделия",
+      "gi": 62,
+      "giError": 3
+    },
+    {
+      "name": "Рисовая каша (конджи)",
+      "nameEn": "Rice porridge/congee",
+      "category": "Зерновые завтраки",
+      "gi": 78,
+      "giError": 9
+    },
+    {
+      "name": "Манго свежее",
+      "nameEn": "Mango, raw",
+      "category": "Фрукты и ягоды",
+      "gi": 51,
+      "giError": 5
+    },
+    {
+      "name": "Батат, варёный",
+      "nameEn": "Sweet potato, boiled",
+      "category": "Овощи и корнеплоды",
+      "gi": 63,
+      "giError": 6
+    },
+    {
+      "name": "Чапати, пшеничная лепёшка",
+      "nameEn": "Chapatti",
+      "category": "Хлеб и хлебобулочные изделия",
+      "gi": 52,
+      "giError": 4
+    },
+    {
+      "name": "Пшённая каша",
+      "nameEn": "Millet porridge",
+      "category": "Зерновые завтраки",
+      "gi": 67,
+      "giError": 5
+    },
+    {
+      "name": "Арбуз свежий",
+      "nameEn": "Watermelon, raw",
+      "category": "Фрукты и ягоды",
+      "gi": 76,
+      "giError": 4
+    },
+    {
+      "name": "Тыква варёная",
+      "nameEn": "Pumpkin, boiled",
+      "category": "Овощи и корнеплоды",
+      "gi": 64,
+      "giError": 7
+    },
+    {
+      "name": "Тортилья кукурузная",
+      "nameEn": "Corn tortilla",
+      "category": "Хлеб и хлебобулочные изделия",
+      "gi": 46,
+      "giError": 4
+    },
+    {
+      "name": "Мюсли",
+      "nameEn": "Muesli",
+      "category": "Зерновые завтраки",
+      "gi": 57,
+      "giError": 2
+    },
+    {
+      "name": "Финики",
+      "nameEn": "Dates, raw",
+      "category": "Фрукты и ягоды",
+      "gi": 42,
+      "giError": 4
+    },
+    {
+      "name": "Плантан (зелёный банан)",
+      "nameEn": "Plantain/green banana",
+      "category": "Овощи и корнеплоды",
+      "gi": 55,
+      "giError": 6
+    },
+    {
+      "name": "Рис белый, варёный",
+      "nameEn": "White rice, boiled",
+      "category": "Крупы и макароны",
+      "gi": 73,
+      "giError": 4
+    },
+    {
+      "name": "Персики консервированные",
+      "nameEn": "Peaches, canned",
+      "category": "Фрукты и ягоды",
+      "gi": 43,
+      "giError": 5
+    },
+    {
+      "name": "Таро, варёный",
+      "nameEn": "Taro, boiled",
+      "category": "Овощи и корнеплоды",
+      "gi": 53,
+      "giError": 2
+    },
+    {
+      "name": "Рис бурый, варёный",
+      "nameEn": "Brown rice, boiled",
+      "category": "Крупы и макароны",
+      "gi": 68,
+      "giError": 4
+    },
+    {
+      "name": "Земляничный джем",
+      "nameEn": "Strawberry jam/jelly",
+      "category": "Сладости и снеки",
+      "gi": 49,
+      "giError": 3
+    },
+    {
+      "name": "Овощной суп",
+      "nameEn": "Vegetable soup",
+      "category": "Супы и готовые блюда",
+      "gi": 48,
+      "giError": 5
+    },
+    {
+      "name": "Ячмень (перловка)",
+      "nameEn": "Barley",
+      "category": "Крупы и макароны",
+      "gi": 28,
+      "giError": 2
+    },
+    {
+      "name": "Яблочный сок",
+      "nameEn": "Apple juice",
+      "category": "Соки",
+      "gi": 41,
+      "giError": 2
+    },
+    {
+      "name": "Кукуруза сладкая",
+      "nameEn": "Sweet corn",
+      "category": "Овощи и корнеплоды",
+      "gi": 52,
+      "giError": 5
+    },
+    {
+      "name": "Апельсиновый сок",
+      "nameEn": "Orange juice",
+      "category": "Соки",
+      "gi": 50,
+      "giError": 2
+    },
+    {
+      "name": "Спагетти из белой муки",
+      "nameEn": "Spaghetti, white",
+      "category": "Крупы и макароны",
+      "gi": 49,
+      "giError": 2
+    },
+    {
+      "name": "Спагетти цельнозерновые",
+      "nameEn": "Spaghetti, whole meal",
+      "category": "Крупы и макароны",
+      "gi": 48,
+      "giError": 5
+    },
+    {
+      "name": "Рисовая лапша",
+      "nameEn": "Rice noodles",
+      "category": "Крупы и макароны",
+      "gi": 53,
+      "giError": 7
+    },
+    {
+      "name": "Лапша удон",
+      "nameEn": "Udon noodles",
+      "category": "Крупы и макароны",
+      "gi": 55,
+      "giError": 7
+    },
+    {
+      "name": "Кускус",
+      "nameEn": "Couscous",
+      "category": "Крупы и макароны",
+      "gi": 65,
+      "giError": 4
+    },
+    {
+      "name": "Молоко 3,5 %",
+      "nameEn": "Milk, full fat",
+      "category": "Молочные продукты",
+      "gi": 39,
+      "giError": 3
+    },
+    {
+      "name": "Нут",
+      "nameEn": "Chickpeas",
+      "category": "Бобовые",
+      "gi": 28,
+      "giError": 9
+    },
+    {
+      "name": "Шоколад",
+      "nameEn": "Chocolate",
+      "category": "Сладости и снеки",
+      "gi": 40,
+      "giError": 3
+    },
+    {
+      "name": "Фруктоза",
+      "nameEn": "Fructose",
+      "category": "Сахара и мёд",
+      "gi": 15,
+      "giError": 4
+    },
+    {
+      "name": "Молоко обезжиренное",
+      "nameEn": "Milk, skim",
+      "category": "Молочные продукты",
+      "gi": 37,
+      "giError": 4
+    },
+    {
+      "name": "Фасоль красная",
+      "nameEn": "Kidney beans",
+      "category": "Бобовые",
+      "gi": 24,
+      "giError": 4
+    },
+    {
+      "name": "Попкорн",
+      "nameEn": "Popcorn",
+      "category": "Сладости и снеки",
+      "gi": 65,
+      "giError": 5
+    },
+    {
+      "name": "Сахароза (столовый сахар)",
+      "nameEn": "Sucrose",
+      "category": "Сахара и мёд",
+      "gi": 65,
+      "giError": 4
+    },
+    {
+      "name": "Мороженое",
+      "nameEn": "Ice cream",
+      "category": "Молочные продукты",
+      "gi": 51,
+      "giError": 3
+    },
+    {
+      "name": "Чечевица",
+      "nameEn": "Lentils",
+      "category": "Бобовые",
+      "gi": 32,
+      "giError": 5
+    },
+    {
+      "name": "Чипсы картофельные",
+      "nameEn": "Potato crisps",
+      "category": "Сладости и снеки",
+      "gi": 56,
+      "giError": 3
+    },
+    {
+      "name": "Глюкоза",
+      "nameEn": "Glucose",
+      "category": "Сахара и мёд",
+      "gi": 103,
+      "giError": 3
+    },
+    {
+      "name": "Йогурт фруктовый",
+      "nameEn": "Yogurt, fruit",
+      "category": "Молочные продукты",
+      "gi": 41,
+      "giError": 2
+    },
+    {
+      "name": "Соевые бобы",
+      "nameEn": "Soya beans",
+      "category": "Бобовые",
+      "gi": 16,
+      "giError": 1
+    },
+    {
+      "name": "Сладкий газированный напиток",
+      "nameEn": "Soft drink/soda",
+      "category": "Сладости и снеки",
+      "gi": 59,
+      "giError": 3
+    },
+    {
+      "name": "Мёд",
+      "nameEn": "Honey",
+      "category": "Сахара и мёд",
+      "gi": 61,
+      "giError": 3
+    },
+    {
+      "name": "Соевое молоко",
+      "nameEn": "Soy milk",
+      "category": "Молочные продукты",
+      "gi": 34,
+      "giError": 4
+    },
+    {
+      "name": "Рисовые хлебцы",
+      "nameEn": "Rice crackers/crisps",
+      "category": "Сладости и снеки",
+      "gi": 87,
+      "giError": 2
+    },
+    {
+      "name": "Рисовое молоко",
+      "nameEn": "Rice milk",
+      "category": "Молочные продукты",
+      "gi": 86,
+      "giError": 7
+    }
+  ]
+}

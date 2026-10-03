@@ -1,0 +1,26 @@
+name: Проверка данных
+
+# Проверка запускается при каждом обновлении репозитория и у каждой заявки на
+# изменение. Если файл данных побился, поле пропало или числа в README разошлись
+# с содержимым — это видно здесь, до того как ошибку заметят читатели.
+
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  validate:
+    name: Файлы, поля, отпечатки и числа
+    runs-on: ubuntu-latest
+    steps:
+      - name: Забрать репозиторий
+        uses: actions/checkout@v4
+
+      - name: Поставить Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Проверить датасет
+        run: node tools/validate-dataset.mjs

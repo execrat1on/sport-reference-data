@@ -1,0 +1,69 @@
+name: Ошибка в данных
+description: Неверный источник, цифра, ссылка или пропущенное поле
+title: "[Данные] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Спасибо, что проверили данные. Заполните, пожалуйста, поля ниже — так ошибку
+        можно будет найти и исправить быстрее. Если речь о здоровье или лечении,
+        это не сюда: такие вопросы решает врач.
+
+  - type: dropdown
+    id: file
+    attributes:
+      label: В каком файле
+      options:
+        - data/references.json (публикации)
+        - data/supplements.json (добавки)
+        - data/training.json (тренировочные объёмы)
+        - data/exercises.json (упражнения)
+        - data/foods.json (продукты по группам)
+        - data/foods-nutrition.json (состав продуктов на 100 г)
+        - data/gi-table.json (гликемический индекс)
+        - data/recipes.json (рецепты)
+        - data/comparisons.json (сравнения добавок)
+        - data/myths.json (заблуждения)
+        - data/health.json (разделы о здоровье)
+        - data/symptoms.json (симптомы)
+        - data/references.csv, .bib или .ris (форматы ссылок)
+        - data/supplements.csv (таблица добавок)
+        - README.md или SCHEMA.md (описание)
+        - Другое
+    validations:
+      required: true
+
+  - type: input
+    id: entry
+    attributes:
+      label: О какой записи речь
+      description: Имя записи (поле id) или название, а лучше и то и другое.
+      placeholder: creatine-monohydrate — Креатин моногидрат
+    validations:
+      required: true
+
+  - type: textarea
+    id: what
+    attributes:
+      label: Что не так
+      description: Опишите ошибку и, если знаете, как должно быть.
+    validations:
+      required: true
+
+  - type: input
+    id: source
+    attributes:
+      label: Чем подтверждается
+      description: Ссылка на публикацию (PMID или DOI) либо на таблицу-источник. Для опечаток можно оставить пустым.
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Проверка перед отправкой
+      options:
+        - label: Я заглянул в SCHEMA.md и убедился, что дело в данных, а не в описании полей
+          required: false
+        - label: Это не вопрос о здоровье или лечении
+          required: true

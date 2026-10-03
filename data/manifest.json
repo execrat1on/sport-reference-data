@@ -1,0 +1,126 @@
+{
+  "dataset": "Sport Reference — открытые данные",
+  "repository": "https://github.com/execrat1on/sport-reference-data",
+  "version": "1.1.0",
+  "generated": "2026-10-03",
+  "source": "https://sportreference.online/",
+  "license": "CC BY 4.0",
+  "counts": {
+    "references": 549,
+    "supplements": 103,
+    "exercises": 25,
+    "foods": 37,
+    "foods-nutrition": 160,
+    "gi-table": 62,
+    "recipes": 164,
+    "comparisons": 16,
+    "myths": 25,
+    "health": 10,
+    "symptoms-items": 24,
+    "symptoms-groups": 7
+  },
+  "files": [
+    {
+      "name": "references.json",
+      "records": 549,
+      "bytes": 239010,
+      "sha256": "aafb7bf12a38477055acc8c634779d944650376b6587392f960539b77d05b92e"
+    },
+    {
+      "name": "supplements.json",
+      "records": 103,
+      "bytes": 482407,
+      "sha256": "f16714d2e567604c13486384e552142de673cf59d91f6e7cb64395ba511820b5"
+    },
+    {
+      "name": "training.json",
+      "records": null,
+      "bytes": 20200,
+      "sha256": "c451aeb1efe7eb24fc89af9ea3a5c6f81763596ae84ad5a9c893861b89f842b0"
+    },
+    {
+      "name": "exercises.json",
+      "records": 25,
+      "bytes": 16059,
+      "sha256": "76379947cd6e5856d1d007d8f5a4251ba3168f2d731d5f4547767af32788a532"
+    },
+    {
+      "name": "foods.json",
+      "records": 37,
+      "bytes": 5835,
+      "sha256": "78ce0fa0646d5d8f40dbae37008f57f6e65b62b3b241cb2a6042b641ec520a9e"
+    },
+    {
+      "name": "foods-nutrition.json",
+      "records": 160,
+      "bytes": 71985,
+      "sha256": "65e46361502dae411270bd7a2d28dd71d792d53fc875480eb609206136800a01"
+    },
+    {
+      "name": "gi-table.json",
+      "records": 62,
+      "bytes": 12288,
+      "sha256": "81871c1803604def582c5c54730d3bcd5742e6be8ad926bb895a351669d32c0a"
+    },
+    {
+      "name": "recipes.json",
+      "records": 164,
+      "bytes": 187337,
+      "sha256": "f44ec3767f9d6c3ca339a05c63dd0eca38712c03248e097134e61353b6d15a9b"
+    },
+    {
+      "name": "comparisons.json",
+      "records": 16,
+      "bytes": 932,
+      "sha256": "48beae093efbc87e9dca16d893080ec2692c7c71c91d1913af43b9287870289b"
+    },
+    {
+      "name": "myths.json",
+      "records": 25,
+      "bytes": 22002,
+      "sha256": "e81e0cf0fa0a3d072d163b2277ec271891fe8f19c7bb6ca75d0e7178b0ddc6cb"
+    },
+    {
+      "name": "health.json",
+      "records": 10,
+      "bytes": 64801,
+      "sha256": "eaf6d82348c37f3e95b132e36eaa386e24883d652598480f95eba00d0004bae1"
+    },
+    {
+      "name": "symptoms.json",
+      "records": 24,
+      "bytes": 35492,
+      "sha256": "24427972a7f718907caaf6dda1759493303724c887ec72480371c753e1fb43ae"
+    },
+    {
+      "name": "references.csv",
+      "records": 549,
+      "bytes": 153630,
+      "sha256": "738e62e0b0c0559b018ccef1a041fab05d94bcc4042896a59c8e60d23d07c11c"
+    },
+    {
+      "name": "references.bib",
+      "records": 549,
+      "bytes": 229545,
+      "sha256": "a5398d288f02327d0db569ce8dc3ebb38d4554d67cd7ab6139beeac51742b153"
+    },
+    {
+      "name": "references.ris",
+      "records": 549,
+      "bytes": 207981,
+      "sha256": "aeae77f2fc3b2792180cb90ac1823c095eb280d6fcf2dacbdc67e4817f121792"
+    },
+    {
+      "name": "supplements.csv",
+      "records": 103,
+      "bytes": 26375,
+      "sha256": "e39b089834cd0263de82e626a0d27afcbb0d8b5b823d6fad2f0284d917febb1f"
+    },
+    {
+      "name": "LICENSE-NOTICE.txt",
+      "records": null,
+      "bytes": 1240,
+      "sha256": "edd02b8893904da1d05bb2a72dd02fe02fb0cbdeab17c29e9fbef0c2c289656d"
+    }
+  ]
+}

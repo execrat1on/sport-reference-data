@@ -1,5 +1,5 @@
 {
-  "note": "Подсказка по технике — не замена тренеру. Видео открываются на YouTube в новой вкладке.",
+  "note": "Подсказка по технике — не замена тренеру. Видео подключаются по нажатию: до этого внешние сервисы не загружаются, а без JavaScript ссылка открывает ролик на YouTube.",
   "groups": [
     {
       "id": "legs",
@@ -9,36 +9,36 @@
           "name": "Приседания со штангой",
           "cue": "Стопы на ширине плеч, колени идут по направлению носков, спина нейтральная, глубина до параллели и ниже.",
           "video": {
-            "title": "How To Squat - Any Style",
-            "channel": "Alan Thrall (Untamed Strength)",
-            "url": "https://www.youtube.com/watch?v=UFs6E3Ti1jg"
+            "title": "Никогда Больше не Делай Приседания Вот Так — 10 Частых Ошибок",
+            "channel": "Корвин Атлетикс",
+            "url": "https://www.youtube.com/watch?v=MfV_nF2_pZI"
           }
         },
         {
           "name": "Жим ногами",
           "cue": "Спина и таз прижаты к спинке, колени сгибаются по направлению стоп, не выпрямляй ноги до жёсткого замка и не отрывай поясницу.",
           "video": {
-            "title": "How to do a Leg Press | Proper Form & Technique",
-            "channel": "National Academy of Sports Medicine (NASM)",
-            "url": "https://www.youtube.com/watch?v=cDGOn-yfKJA"
+            "title": "6 Упражнений в Зале Которые Многие Делают Неправильно",
+            "channel": "Корвин Атлетикс",
+            "url": "https://www.youtube.com/watch?v=DP0NmIEXWWw"
           }
         },
         {
           "name": "Румынская тяга",
           "cue": "Колени слегка согнуты, таз уходит назад, штанга скользит вдоль ног, спина нейтральная, растяжение в задней поверхности бедра без округления поясницы.",
           "video": {
-            "title": "Romanian Deadlift - Proper Form & Technique",
-            "channel": "Steev",
-            "url": "https://www.youtube.com/watch?v=KN5vN3JskqI"
+            "title": "Румынская Становая Тяга — Прекрати её Делать Неправильно (Спаси Спину)",
+            "channel": "Корвин Атлетикс",
+            "url": "https://www.youtube.com/watch?v=0-fUDhklbkY"
           }
         },
         {
           "name": "Выпады с гантелями",
           "cue": "Шаг вперёд или назад, корпус вертикально, колено передней ноги над стопой, заднее колено опускается к полу, отталкивайся всей стопой.",
           "video": {
-            "title": "Dumbbell Lunges (Proper Form)",
-            "channel": "No Cheat Gains",
-            "url": "https://www.youtube.com/watch?v=TwEH620Pn6A"
+            "title": "Прекрати Делать Такие Выпады Вперёд — Поменяй на Это",
+            "channel": "Корвин Атлетикс",
+            "url": "https://www.youtube.com/watch?v=YWUKAWHXoJY"
           }
         }
       ]
@@ -51,36 +51,36 @@
           "name": "Жим штанги лёжа",
           "cue": "Лопатки сведены и прижаты к скамье, стопы упираются в пол, гриф опускается к нижней части груди, локти идут под умеренным углом к корпусу.",
           "video": {
-            "title": "How To Bench Press With Perfect Technique",
-            "channel": "Jeff Nippard",
-            "url": "https://www.youtube.com/watch?v=hWbUlkb5Ms4"
+            "title": "Грудные Мышцы. Проверь, Правильно ли Ты Их Тренируешь",
+            "channel": "Корвин Атлетикс",
+            "url": "https://www.youtube.com/watch?v=gmr_ACPdvK0"
           }
         },
         {
           "name": "Жим гантелей на наклонной",
           "cue": "Скамья под умеренным наклоном, лопатки сведены, гантели движутся по дуге над верхней частью груди, без разведения локтей строго в стороны.",
           "video": {
-            "title": "How to Perform Incline Dumbbell Press",
-            "channel": "Buff Dudes Workouts",
-            "url": "https://www.youtube.com/watch?v=gl8H4QLXKTo"
+            "title": "Подъёмы Гантелей На Наклонной: 95% Делают Ошибку — Вот Как Правильно",
+            "channel": "Корвин Атлетикс",
+            "url": "https://www.youtube.com/watch?v=LXKvszKGtMM"
           }
         },
         {
           "name": "Отжимания на брусьях",
           "cue": "Корпус слегка наклонён вперёд, локти идут назад, опускайся до комфортной глубины без провала в плечах, плечи не поднимаются к ушам.",
           "video": {
-            "title": "Chest Dip - Proper Form & Technique",
-            "channel": "Steev",
-            "url": "https://www.youtube.com/watch?v=JGE9AVVGAH0"
+            "title": "Вам Нужны Только Эти 2 Упражнения на Трицепс!",
+            "channel": "Корвин Атлетикс",
+            "url": "https://www.youtube.com/watch?v=3EvWzYqaU9k"
           }
         },
         {
           "name": "Разводка гантелей лёжа",
           "cue": "Локти чуть согнуты и зафиксированы, руки движутся по широкой дуге, растяжение в груди без опускания ниже уровня плеч.",
           "video": {
-            "title": "The Better Chest Fly (More Gains!)",
-            "channel": "ATHLEAN-X",
-            "url": "https://www.youtube.com/watch?v=S298ziysRdI"
+            "title": "2 Упражнения и Гантели — Всё, Что Нужно для Мощных Грудных Мышц",
+            "channel": "Корвин Атлетикс",
+            "url": "https://www.youtube.com/watch?v=uzWsb12tHhg"
           }
         }
       ]
@@ -93,45 +93,45 @@
           "name": "Подтягивания",
           "cue": "Хват чуть шире плеч, лопатки сводятся вниз и к позвоночнику, тянись грудью к перекладине, без раскачивания и рывков.",
           "video": {
-            "title": "How To: Pull Up",
-            "channel": "ScottHermanFitness",
-            "url": "https://www.youtube.com/watch?v=8XrB3eV3_ZE"
+            "title": "+5 подтягиваний за 28 дней — Рабочий протокол",
+            "channel": "Корвин Атлетикс",
+            "url": "https://www.youtube.com/watch?v=-LIh_HkZD54"
           }
         },
         {
           "name": "Тяга штанги в наклоне",
           "cue": "Корпус наклонён, спина нейтральная, штанга тянется к нижней части живота, локти идут вдоль корпуса без рывков.",
           "video": {
-            "title": "How To Barbell Row: Programming & Proper Form",
-            "channel": "Barbell Logic",
-            "url": "https://www.youtube.com/watch?v=A1tmBJKKfVs"
+            "title": "Мышцы Спины: Ширина или Толщина — Тяга в Наклоне или Подтягивания",
+            "channel": "Корвин Атлетикс",
+            "url": "https://www.youtube.com/watch?v=zSERLS5Myos"
           }
         },
         {
           "name": "Тяга верхнего блока",
           "cue": "Корпус с лёгким наклоном назад, тяни рукоять к верхней части груди, лопатки сводятся, без раскачивания корпуса.",
           "video": {
-            "title": "How to do Lat Pulldowns (Avoid Mistakes!)",
-            "channel": "ATHLEAN-X",
-            "url": "https://www.youtube.com/watch?v=SALxEARiMkw"
+            "title": "Тяга Вертикального Блока — и Только Попробуй Сделать Её Неправильно",
+            "channel": "Корвин Атлетикс",
+            "url": "https://www.youtube.com/watch?v=CE3jUOXqaz0"
           }
         },
         {
           "name": "Тяга гантели одной рукой",
           "cue": "Колено и ладонь на скамье, спина нейтральная, гантель тянется к бедру, локоть идёт вдоль корпуса, без вращения таза.",
           "video": {
-            "title": "One-Arm Dumbbell Row: Proper Form",
-            "channel": "Testosterone Nation",
-            "url": "https://www.youtube.com/watch?v=EqEOuGFyOgc"
+            "title": "Мышцы Спины Одними Гантелями. Лучшие Упражнения",
+            "channel": "Корвин Атлетикс",
+            "url": "https://www.youtube.com/watch?v=7xoj4pCfPDM"
           }
         },
         {
           "name": "Становая тяга",
           "cue": "Гриф над серединой стопы, спина нейтральная, живот напряжён, отталкивайся ногами и веди гриф близко к телу, вверху не переразгибай поясницу.",
           "video": {
-            "title": "How To Deadlift With Perfect Technique (Step By Step)",
-            "channel": "Jeff Nippard",
-            "url": "https://www.youtube.com/watch?v=ZaTM37cfiDs"
+            "title": "Прекрати Делать Становую Тягу Вот Так — Спаси Свою Спину",
+            "channel": "Корвин Атлетикс",
+            "url": "https://www.youtube.com/watch?v=XChA-Ky-UOA"
           }
         }
       ]
@@ -144,27 +144,27 @@
           "name": "Жим штанги стоя",
           "cue": "Стопы на ширине плеч, живот напряжён, гриф идёт по прямой над головой, локти под грифом, без прогиба в пояснице.",
           "video": {
-            "title": "How to Perform Overhead Press - Proper Technique & Form",
-            "channel": "Buff Dudes",
-            "url": "https://www.youtube.com/watch?v=F3QY5vMz_6I"
+            "title": "Эти 7 Упражнений Гробят Ваши Плечи — Поменяй Технику",
+            "channel": "Корвин Атлетикс",
+            "url": "https://www.youtube.com/watch?v=T-xklMMW0XY"
           }
         },
         {
           "name": "Махи гантелями в стороны",
           "cue": "Локти чуть согнуты, движение идёт локтями, гантели поднимаются до уровня плеч, без раскачивания корпуса и поднимания плеч к ушам.",
           "video": {
-            "title": "How To: Dumbbell Side Lateral Raise",
-            "channel": "ScottHermanFitness",
-            "url": "https://www.youtube.com/watch?v=3VcKaXpzqRo"
+            "title": "Идеальная Тренировка Дельтовидных Мышц Плеч — По Науке",
+            "channel": "Корвин Атлетикс",
+            "url": "https://www.youtube.com/watch?v=hXGMk0Dibow"
           }
         },
         {
           "name": "Махи в наклоне на заднюю дельту",
           "cue": "Корпус наклонён, спина нейтральная, руки разводятся в стороны, лопатки сводятся, движение без рывков и инерции.",
           "video": {
-            "title": "Rear Delt Fly - Proper Form & Technique",
-            "channel": "Steev",
-            "url": "https://www.youtube.com/watch?v=p7YER_nABrI"
+            "title": "Только Эти 2 Упражнения на Заднюю Дельту Тебе Нужны",
+            "channel": "Корвин Атлетикс",
+            "url": "https://www.youtube.com/watch?v=bddmbzooYBA"
           }
         }
       ]
@@ -177,27 +177,27 @@
           "name": "Подъём штанги на бицепс",
           "cue": "Локти прижаты к корпусу, подъём без раскачивания, вверху без движения плечами, опускание подконтрольное.",
           "video": {
-            "title": "How To: Barbell Bicep Curl",
-            "channel": "ScottHermanFitness",
-            "url": "https://www.youtube.com/watch?v=QZEqB6wUPxQ"
+            "title": "Бицепс — Самая Высокоэффективная Тренировка 2026",
+            "channel": "Корвин Атлетикс",
+            "url": "https://www.youtube.com/watch?v=VDE4vlZVFRI"
           }
         },
         {
           "name": "Французский жим лёжа",
           "cue": "Плечи и локти зафиксированы, сгибается только предплечье, гриф опускается ко лбу или за голову, без разведения локтей.",
           "video": {
-            "title": "How to Do Lying Triceps Extension (Skull Crusher)",
-            "channel": "FIT.nl",
-            "url": "https://www.youtube.com/watch?v=tj81tVq3wLo"
+            "title": "Как Тренирует Трицепс Сам Джефф Кавальер — Полный Разбор",
+            "channel": "Корвин Атлетикс",
+            "url": "https://www.youtube.com/watch?v=JHRpTnQ-_Sc"
           }
         },
         {
           "name": "Разгибания на блоке",
           "cue": "Локти прижаты к корпусу, разгибание только в локте, внизу полное сокращение, без наклона корпуса вперёд.",
           "video": {
-            "title": "Tricep Pushdown: Proper Form, Attachments, and the Biggest Mistake Killing Your Gains",
-            "channel": "MuscleWiki",
-            "url": "https://www.youtube.com/watch?v=w_viR9hVi4A"
+            "title": "Трицепс. Проверь, Правильно ли Ты Его Тренируешь",
+            "channel": "Корвин Атлетикс",
+            "url": "https://www.youtube.com/watch?v=5cqyXM4PnG8"
           }
         }
       ]
@@ -210,18 +210,18 @@
           "name": "Планка",
           "cue": "Тело — прямая линия от головы до пяток, живот и ягодицы напряжены, таз не провисает и не поднимается, шея нейтральная.",
           "video": {
-            "title": "How to do a Plank | Proper Form & Technique",
-            "channel": "National Academy of Sports Medicine (NASM)",
-            "url": "https://www.youtube.com/watch?v=mwlp75MS6Rg"
+            "title": "Только Эти 2 Упражнения на Пресс Вам Нужны",
+            "channel": "Корвин Атлетикс",
+            "url": "https://www.youtube.com/watch?v=5a9iwqK_yuE"
           }
         },
         {
           "name": "Подъём ног в висе",
           "cue": "Хват на перекладине, плечи опущены, подъём ног за счёт пресса с округлением таза, без раскачивания и инерции.",
           "video": {
-            "title": "Hanging Leg Raise | HOW-TO",
-            "channel": "ATHLEAN-X",
-            "url": "https://www.youtube.com/watch?v=Pr1ieGZ5atk"
+            "title": "Мышцы Пресса. Финал — Самый Эффективный Способ в 2026",
+            "channel": "Корвин Атлетикс",
+            "url": "https://www.youtube.com/watch?v=8OV3j76eGiM"
           }
         }
       ]
@@ -249,9 +249,9 @@
           "name": "Интервальная ходьба и бег",
           "cue": "Чередуй отрезки высокой и низкой интенсивности, корпус вертикально, приземление на середину стопы, дыхание ровное, нагрузку повышай постепенно.",
           "video": {
-            "title": "Treadmill Interval Workout with Coach Rachael",
-            "channel": "IBX Running",
-            "url": "https://www.youtube.com/watch?v=uNKbVlGstWY"
+            "title": "Кардиотренажёры — от Худших до Самых Лучших для Похудения",
+            "channel": "Корвин Атлетикс",
+            "url": "https://www.youtube.com/watch?v=s1fNaooTin8"
           }
         },
         {
@@ -273,9 +273,9 @@
           "name": "Суставная разминка и динамическая растяжка",
           "cue": "Пройди суставы маховыми и круговыми движениями, затем динамические движения с постепенным увеличением амплитуды, без резких растягиваний на холодные мышцы.",
           "video": {
-            "title": "Dynamic Warm Up (Full Body Mobility)",
-            "channel": "nourishmovelove",
-            "url": "https://www.youtube.com/watch?v=oiBAbrqajBw"
+            "title": "После Этих 5 Упражнений 90% Станут Более Функциональными и Мобильными",
+            "channel": "Корвин Атлетикс",
+            "url": "https://www.youtube.com/watch?v=BB9KABFgm_o"
           }
         }
       ]

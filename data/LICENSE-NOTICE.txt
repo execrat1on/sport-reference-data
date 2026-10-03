@@ -9,4 +9,9 @@ Attribution 4.0 International (CC BY 4.0).
     Данные: Sport Reference — доказательный справочник о добавках и тренировках,
     https://sportreference.online/, лицензия CC BY 4.0.
 
+Часть данных взята из внешних открытых таблиц — состав продуктов (ANSES Ciqual 2025,
+лицензия Etalab 2.0) и гликемический индекс (International Tables of Glycemic Index
+and Glycemic Load Values, 2008). При использовании этих файлов укажите также их
+источники; ссылки перечислены в README.md.
+
 Данные предоставляются «как есть», без гарантий. Это не медицинская рекомендация.

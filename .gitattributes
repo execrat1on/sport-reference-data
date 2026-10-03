@@ -1,4 +1,15 @@
 # JSON — данные проекта: переводы строк внутри них не трогаем.
 *.json -text
+# Файлы, отпечатки которых сверяет проверка, храним байт в байт: авто-преобразование
+# переводов строк сломало бы отпечатки при выгрузке на другой системе.
+*.csv -text
+*.bib -text
+*.ris -text
+*.txt -text
+# Остальной текст храним с LF: так он не «прыгает» между Windows и Linux.
+.gitattributes text eol=lf
+LICENSE text eol=lf
 *.cff text eol=lf
 *.md text eol=lf
+*.yml text eol=lf
+*.mjs text eol=lf

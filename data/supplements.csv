@@ -1,0 +1,104 @@
+﻿id,name,category,evidence,verdict,goals_with_dose,url
+beef-protein,Говяжий белок,base,B,В метаанализе семи РКИ не уступал сыворотке по сухой массе и силе ног,muscle strength recomp,https://sportreference.online/supplements/beef-protein/
+calcium,Кальций,base,B,"Нужен для костей, но добавки сверх рациона кости не укрепляют",strength endurance,https://sportreference.online/supplements/calcium/
+casein-protein,Казеиновый протеин,base,B,Медленный белок; преимущество перед сывороткой не доказано,muscle recomp fatloss,https://sportreference.online/supplements/casein-protein/
+creatine-monohydrate,Креатин моногидрат,base,A,Самая изученная добавка: устойчивое умеренное улучшение силы и прироста мышц,muscle strength recomp endurance,https://sportreference.online/supplements/creatine-monohydrate/
+eaa,Незаменимые аминокислоты (EAA),base,B,"Теоретически лучше BCAA, но не лучше полного белка",muscle recomp endurance,https://sportreference.online/supplements/eaa/
+egg-protein,Яичный белок,base,C,"Аминокислотный профиль эталонный, но подтверждающих исследований добавки почти нет",muscle strength recomp,https://sportreference.online/supplements/egg-protein/
+leucine,Лейцин,base,B,Отдельная добавка не даёт преимуществ при достаточном белке,muscle recomp fatloss,https://sportreference.online/supplements/leucine/
+maltodextrin,Мальтодекстрин,base,B,Дешёвый источник углеводов для длительной работы; в силовой тренировке эффекта не дал,endurance strength,https://sportreference.online/supplements/maltodextrin/
+pea-protein,Гороховый белок,base,B,"Не уступал сыворотке в 12-недельном РКИ; лейцина на грамм меньше, чем в молочных белках",muscle strength recomp,https://sportreference.online/supplements/pea-protein/
+plant-protein-blend,Растительные белковые смеси,base,B,Смеси гороха и риса близки к сыворотке; однокомпонентные — слабее,muscle strength recomp,https://sportreference.online/supplements/plant-protein-blend/
+rice-protein,Рисовый белок,base,C,"Гипоаллергенный растительный белок, но прямых сравнительных исследований мало",muscle strength recomp,https://sportreference.online/supplements/rice-protein/
+sodium-electrolyte,Натрий и электролиты,base,A,Для нагрузок длиннее 2 часов натрий с водой защищает от гипонатриемии,endurance,https://sportreference.online/supplements/sodium-electrolyte/
+soy-protein,Соевый белок,base,B,Полноценный белок: в метаанализе девяти исследований не уступал животным белкам,muscle strength recomp,https://sportreference.online/supplements/soy-protein/
+whey-protein,Сывороточный протеин,base,A,Добивает суточный белок; источник белка важен меньше его общего количества,muscle strength recomp fatloss,https://sportreference.online/supplements/whey-protein/
+alpha-gpc,Альфа-глицерилфосфорилхолин,goal,C,"Одно небольшое исследование; эффект не подтверждён, данных мало",strength endurance,https://sportreference.online/supplements/alpha-gpc/
+atp,Пероральный АТФ,goal,C,"Мета-анализ малых исследований; качество данных низкое, эффект неясен",strength endurance muscle,https://sportreference.online/supplements/atp/
+beta-alanine,Бета-аланин,goal,A,"Помогает на нагрузке 0,5–10 минут; на спринт короче 30 секунд не влияет",endurance strength,https://sportreference.online/supplements/beta-alanine/
+betaine,Бетаин,goal,B,Небольшое и нестабильное влияние на силу; состав тела меняет слабо,strength muscle recomp fatloss,https://sportreference.online/supplements/betaine/
+caffeine,Кофеин,goal,A,"Рабочая добавка: выносливость +2–4%, сила — умеренно",endurance strength fatloss,https://sportreference.online/supplements/caffeine/
+caffeine-gum,Кофеин в жевательной резинке,goal,A,Быстрое и надёжное действие: эффект начинается уже при жевании,endurance strength,https://sportreference.online/supplements/caffeine-gum/
+carb-electrolyte-drink,Углеводно-электролитный напиток,goal,A,Основной рабочий инструмент на нагрузках длиннее 90 минут,endurance recomp,https://sportreference.online/supplements/carb-electrolyte-drink/
+citrulline-malate,Цитруллина малат,goal,B,"Скромный эффект: возможен рост числа повторений, данные неоднородны",muscle strength endurance,https://sportreference.online/supplements/citrulline-malate/
+cluster-dextrin,Кластерный декстрин,goal,C,"То же, что HBCD: быстрее покидает желудок, но прироста результатов не показано",endurance strength,https://sportreference.online/supplements/cluster-dextrin/
+cordyceps,Кордицепс,goal,C,"Противоречивые данные: одна работа показала пользу, другая — отсутствие эффекта",endurance strength,https://sportreference.online/supplements/cordyceps/
+creatine-nitrate,Креатин нитрат,goal,C,Данных очень мало; преимуществ над моногидратом не показано,endurance strength muscle recomp,https://sportreference.online/supplements/creatine-nitrate/
+dietary-nitrate,Нитраты (свекольный сок),goal,B,Умеренно улучшает выносливость; ответ сильно различается между людьми,endurance,https://sportreference.online/supplements/dietary-nitrate/
+fenugreek,Пажитник (фенугрек),goal,C,"Четыре РКИ из шести показали эффект, но выборки малы и качество низкое",muscle strength,https://sportreference.online/supplements/fenugreek/
+glycerol-hyperhydration,Глицерол для гипергидратации,goal,B,"Удерживает воду, но выигрыш в результате нестабилен",endurance,https://sportreference.online/supplements/glycerol-hyperhydration/
+hbcd,HBCD (сильно разветвлённый циклический декстрин),goal,C,Изучен только по скорости опорожнения желудка; выигрыша в результатах не показано,endurance strength,https://sportreference.online/supplements/hbcd/
+ornithine-akg,Орнитин альфа-кетоглутарат,goal,C,Недостаточно данных: исследований именно этой формы нет,endurance strength recomp,https://sportreference.online/supplements/ornithine-akg/
+sodium-bicarbonate,Бикарбонат натрия (сода),goal,A,Работает на нагрузке 1–10 минут; цена — расстройство ЖКТ,endurance strength,https://sportreference.online/supplements/sodium-bicarbonate/
+sodium-citrate,Цитрат натрия,goal,B,"Алкалинизирующая добавка: умеренный эффект на выносливость, изучена слабее бикарбоната",endurance strength,https://sportreference.online/supplements/sodium-citrate/
+taurine,Таурин,goal,B,Данные слабые и разнородные; возможна польза при больших объёмах,endurance strength,https://sportreference.online/supplements/taurine/
+tyrosine,Тирозин,goal,B,"Работает при стрессе и недосыпе, в спокойном состоянии эффекта нет",endurance strength,https://sportreference.online/supplements/tyrosine/
+ashwagandha,Ашваганда,recovery,B,Скромный эффект на силу; исследования малые и неоднородные,strength muscle,https://sportreference.online/supplements/ashwagandha/
+cbd,Каннабидиол (CBD),recovery,B,Влияние на спортивный результат не показано; данные о восстановлении предварительные,recomp,https://sportreference.online/supplements/cbd/
+collagen-peptides,Коллагеновые пептиды,recovery,B,"Небольшой эффект на боль в сухожилиях, структуру не меняет",strength recomp,https://sportreference.online/supplements/collagen-peptides/
+colostrum,Молозиво (колострум),recovery,C,"Есть данные о восстановлении и иммунитете, но дозы и эффекты нестабильны",endurance strength,https://sportreference.online/supplements/colostrum/
+curcumin,Куркумин,recovery,A,Снижает креатинкиназу и болезненность после нагрузки; эффект умеренный,muscle recomp,https://sportreference.online/supplements/curcumin/
+glycine,Глицин,recovery,C,Данных о спортивном результате нет; изучен в основном как средство для сна,muscle recomp,https://sportreference.online/supplements/glycine/
+lemon-balm,Мелисса лекарственная (лемон-балм),recovery,C,Мягкое седативное средство; влияние на восстановление и результат не доказано,recomp,https://sportreference.online/supplements/lemon-balm/
+phosphatidylserine,Фосфатидилсерин,recovery,C,Единичное исследование снижения кортизола; эффект не доказан,strength endurance,https://sportreference.online/supplements/phosphatidylserine/
+sleep-supplements,"Добавки для сна (мелатонин, глицин, магний)",recovery,C,"Сон критичен, но доказательства пользы добавок для результата слабые",recomp endurance,https://sportreference.online/supplements/sleep-supplements/
+tart-cherry,Вишнёвый сок (терпкая вишня),recovery,B,Умеренно снижает боль и маркеры повреждения после нагрузок,endurance recomp,https://sportreference.online/supplements/tart-cherry/
+theanine,L-теанин,recovery,B,Сам не эргоген; с кофеином улучшает внимание и снижает нервозность,endurance strength,https://sportreference.online/supplements/theanine/
+valerian,Валериана,recovery,B,Один качественный РКИ показал улучшение сна; прямых данных о мышцах и силе нет,muscle strength,https://sportreference.online/supplements/valerian/
+b-complex,Витамины группы B (комплекс),health,C,"При дефиците важны, у обеспеченных спортсменов результат не улучшают",endurance recomp,https://sportreference.online/supplements/b-complex/
+folate,"Фолат (витамин B9, фолиевая кислота)",health,C,"Дефицит устраняет и эритропоэз поддерживает, но результат не повышает",endurance,https://sportreference.online/supplements/folate/
+ginseng,Женьшень (Panax ginseng),health,C,Систематический обзор: маркеры мышечного повреждения после силовых нагрузок не снижал,strength endurance,https://sportreference.online/supplements/ginseng/
+iodine,Йод,health,C,"Нужен щитовидной железе, но без дефицита добавки скорее вредны, чем полезны",recomp,https://sportreference.online/supplements/iodine/
+iron,Железо,health,B,Помогает при дефиците; без дефицита бесполезно и вредно,endurance recomp,https://sportreference.online/supplements/iron/
+magnesium,Магний,health,C,Нужен при дефиците; работоспособность у обеспеченных не улучшает,strength recomp,https://sportreference.online/supplements/magnesium/
+multivitamin,Мультивитамины,health,C,"Страховка от дефицита, но не способ улучшить результат",recomp,https://sportreference.online/supplements/multivitamin/
+omega-3,Омега-3 (ЭПК и ДГК),health,B,"Польза для здоровья есть, прирост результатов слабый",endurance recomp,https://sportreference.online/supplements/omega-3/
+potassium,Калий,health,C,Судороги добавками калия не лечит; польза только при дефиците рациона,endurance,https://sportreference.online/supplements/potassium/
+probiotics,Пробиотики,health,B,Данные ограничены: возможно умеренное снижение риска респираторных и желудочно-кишечных расстройств при больших нагрузках,endurance recomp,https://sportreference.online/supplements/probiotics/
+rhodiola,Родиола розовая,health,B,"Самый последовательно изученный адаптоген, но результаты исследований расходятся",endurance strength,https://sportreference.online/supplements/rhodiola/
+selenium,Селен,health,C,"Дефицит вреден, но добавки сверх нормы результат не улучшают и токсичны",endurance,https://sportreference.online/supplements/selenium/
+tryptophan,Триптофан,health,C,Работоспособность не повышает; спортивные данные старые и слабые,endurance muscle,https://sportreference.online/supplements/tryptophan/
+vitamin-a,"Витамин A (ретинол, каротиноиды)",health,C,Спортивных данных нет; опасен избыток — хроническая передозировка токсична,muscle,https://sportreference.online/supplements/vitamin-a/
+vitamin-b12,Витамин B12 (кобаламин),health,B,Критичен при веганском рационе; у обеспеченных спортсменов эффекта нет,endurance strength,https://sportreference.online/supplements/vitamin-b12/
+vitamin-c,Витамин C (аскорбиновая кислота),health,B,"Устраняет дефицит, но прироста выносливости не даёт; высокие дозы мешают адаптации",endurance muscle,https://sportreference.online/supplements/vitamin-c/
+vitamin-d,Витамин D,health,B,Полезен только при дефиците: силу у обеспеченных не повышает,muscle strength recomp,https://sportreference.online/supplements/vitamin-d/
+vitamin-e,"Витамин E (токоферолы, токотриенолы)",health,C,Антиоксидант без доказанного влияния на работоспособность; эффект не подтверждён,endurance,https://sportreference.online/supplements/vitamin-e/
+vitamin-k2,Витамин K2 (менахиноны),health,C,"Костям и сосудам потенциально полезен, но спортивных исходов не изучено",strength,https://sportreference.online/supplements/vitamin-k2/
+zinc,Цинк,health,B,Дефицит снижает силу и тестостерон; при достаточном статусе эффекта нет,muscle strength,https://sportreference.online/supplements/zinc/
+apple-cider-vinegar,Яблочный уксус,overrated,C,Заявленные эффекты на вес не воспроизводятся; данные работ вызывают серьёзные сомнения,fatloss,https://sportreference.online/supplements/apple-cider-vinegar/
+arginine,Аргинин,overrated,C,Перорально работает плохо; эффект слабее цитруллина,endurance muscle strength,https://sportreference.online/supplements/arginine/
+astaxanthin,Астаксантин,overrated,C,Данные малочисленны и разнонаправленны; убедительного эффекта нет,endurance muscle,https://sportreference.online/supplements/astaxanthin/
+bcaa,BCAA (аминокислоты с разветвлённой цепью),overrated,B,Слабый эффект: полный белок делает то же лучше и дешевле,muscle recomp,https://sportreference.online/supplements/bcaa/
+boron,Бор,overrated,C,Данные о тестостероне и силе слабые и противоречивые; эффект не доказан,strength muscle,https://sportreference.online/supplements/boron/
+chitosan,Хитозан,overrated,B,Мета-анализ: около 1 кг за несколько месяцев — практически малозначимо,fatloss,https://sportreference.online/supplements/chitosan/
+chromium,Хром,overrated,C,Потере жира и композиции тела у здоровых не помогает; данных мало,fatloss recomp,https://sportreference.online/supplements/chromium/
+cla,Конъюгированная линолевая кислота (CLA),overrated,A,"Мета-анализ: около 0,1 кг жира в неделю при 3,2 г/сут — на практике почти незаметно",fatloss recomp,https://sportreference.online/supplements/cla/
+coq10,Коэнзим Q10 (убихинон),overrated,C,"Концентрацию в крови повышает, работоспособность улучшает непоследовательно",endurance muscle,https://sportreference.online/supplements/coq10/
+creatine-hcl,Креатин HCl,overrated,C,Нет доказанных преимуществ перед моногидратом; переплата,muscle strength endurance fatloss,https://sportreference.online/supplements/creatine-hcl/
+d-ribose,D-рибоза,overrated,C,Исследование не показало эффекта; польза для спортсменов не подтверждена,endurance strength,https://sportreference.online/supplements/d-ribose/
+deer-antler-velvet,Панты оленя (deer antler velvet),overrated,C,Единственное РКИ не подтвердило прироста силы и аэробных возможностей,muscle strength,https://sportreference.online/supplements/deer-antler-velvet/
+ecdysterone,Экдистерон,overrated,C,"Одно небольшое РКИ показало прирост мышц, но эффект слабый и не воспроизведён",muscle strength,https://sportreference.online/supplements/ecdysterone/
+ephedra-ephedrine,Эфедра и эфедрин,overrated,A,"Умеренное снижение веса, но серьёзный риск для сердца",fatloss,https://sportreference.online/supplements/ephedra-ephedrine/
+forskolin,Форсколин (колеус Форсколи),overrated,C,Мелкие исследования сомнительного качества; независимого подтверждения эффекта нет,fatloss,https://sportreference.online/supplements/forskolin/
+garcinia-cambogia,Гарциния камбоджийская,overrated,C,Эффект на вес не подтверждён; в мета-анализах разницы с плацебо нет,fatloss,https://sportreference.online/supplements/garcinia-cambogia/
+glucomannan,Глюкоманнан,overrated,C,Растворимая клетчатка с малым эффектом; доказательства слабые,fatloss,https://sportreference.online/supplements/glucomannan/
+glucosamine-chondroitin,Глюкозамин и хондроитин,overrated,B,При боли в колене эффект мал и на грани значимого; хрящ не восстанавливает,strength,https://sportreference.online/supplements/glucosamine-chondroitin/
+glutamine,Глутамин,overrated,B,"Здоровым спортсменам почти не даёт: ни роста, ни иммунитета",recomp endurance,https://sportreference.online/supplements/glutamine/
+green-coffee-bean,Зелёный кофе (хлорогеновая кислота),overrated,B,Мета-анализ: около 1 кг за 8–12 недель; эффект мал и непостоянен,fatloss,https://sportreference.online/supplements/green-coffee-bean/
+green-tea-egcg,Экстракт зелёного чая (EGCG),overrated,C,"Эффект малый; есть риск редкого, но тяжёлого поражения печени",fatloss endurance recomp,https://sportreference.online/supplements/green-tea-egcg/
+hmb,HMB (бета-гидрокси-бета-метилбутират),overrated,B,Для тренированных почти бесполезен: доказательства противоречивы,muscle recomp,https://sportreference.online/supplements/hmb/
+ketone-esters,Кетоновые эфиры,overrated,B,"По свежим данным ухудшают выносливость, а не улучшают",endurance,https://sportreference.online/supplements/ketone-esters/
+l-carnitine,L-карнитин,overrated,B,"Жир не сжигает: средний эффект около 1–1,2 кг и клинически малозначим",fatloss recomp,https://sportreference.online/supplements/l-carnitine/
+laxogenin,Лаксогенин,overrated,C,Стероидный сапонин из смилакса: контролируемых данных у людей нет,muscle strength,https://sportreference.online/supplements/laxogenin/
+maca,Мака,overrated,C,В пилотном РКИ результат не отличался от плацебо; данных мало,endurance,https://sportreference.online/supplements/maca/
+msm,Метилсульфонилметан (MSM),overrated,C,Единичное РКИ не показало защиты мышц после нагрузки; данных мало,muscle,https://sportreference.online/supplements/msm/
+phenibut,Фенибут (β-фенил-ГАМК),overrated,C,Рецептурный препарат с высоким риском зависимости; добавкой не является,recomp,https://sportreference.online/supplements/phenibut/
+raspberry-ketone,Кетон малины,overrated,C,У человека эффекта нет; данные ограничены опытами на клетках и грызунах,fatloss,https://sportreference.online/supplements/raspberry-ketone/
+shilajit,Шиладжит (мумиё),overrated,C,"Единственное исследование открытое, без группы сравнения: эффект не доказан",strength endurance,https://sportreference.online/supplements/shilajit/
+sodium-phosphate,Фосфат натрия,overrated,C,"Результаты противоречивы: одна работа показала эффект, вторая — нет",endurance strength fatloss,https://sportreference.online/supplements/sodium-phosphate/
+synephrine,Синефрин,overrated,C,Пользы не доказано; есть риск кардиотоксичности и роста давления,fatloss recomp,https://sportreference.online/supplements/synephrine/
+testosterone-boosters,"«Бустеры тестостерона» (ZMA, трибулус и др.)",overrated,B,Тестостерон у здоровых мужчин не повышают,strength muscle,https://sportreference.online/supplements/testosterone-boosters/
+theacrine,Теакрин,overrated,C,Эффект НЕ подтверждён: исследование 2025 года не выявило улучшения,endurance strength fatloss,https://sportreference.online/supplements/theacrine/
+turkesterone,Туркестерон,overrated,C,Контролируемых исследований у людей нет; популярность не подкреплена данными,muscle strength,https://sportreference.online/supplements/turkesterone/
+weight-gainer,Гейнер (weight gainer),overrated,B,Это мальтодекстрин и сахар по цене протеина; то же даёт обычная еда,muscle,https://sportreference.online/supplements/weight-gainer/
+yohimbine,Йохимбин,overrated,C,"Опасен: панические атаки, гипертония, запрещён в спорте. Данных мало",fatloss recomp,https://sportreference.online/supplements/yohimbine/
